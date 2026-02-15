@@ -125,19 +125,6 @@ JobApplyAutomation/
 
 ```bash
 # ============================================
-# USER INFORMATION
-# ============================================
-USER_NAME=Viraj Sangani
-USER_EMAIL=sanganiviraj263@gmail.com
-USER_PHONE=+918128800325
-USER_ADDRESS=Mumbai, Maharashtra, India
-USER_LINKEDIN=https://www.linkedin.com/in/viraj-sangani/
-USER_PORTFOLIO=https://github.com/virajsangani
-YEARS_EXPERIENCE=1.8
-CURRENT_TITLE=Software Engineer
-USER_SKILLS=React Native, JavaScript, React, Node.js, SQL, AWS
-
-# ============================================
 # AI CONFIGURATION (FREE!)
 # ============================================
 AI_PROVIDER=gemini
