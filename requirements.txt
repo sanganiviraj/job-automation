@@ -1,0 +1,31 @@
+# Core automation
+playwright==1.41.0
+selenium==4.17.0
+
+# Web scraping
+beautifulsoup4==4.12.3
+lxml==5.1.0
+requests==2.31.0
+
+# Data processing
+pandas==2.2.0
+openpyxl==3.1.2
+
+# AI/LLM (Choose one or both)
+google-generativeai>=0.8.0  # FREE - Gemini API (Recommended)
+openai==1.12.0              # PAID - OpenAI API (Optional)
+
+# PDF handling
+PyPDF2==3.0.1
+reportlab==4.0.9
+fpdf2==2.7.7
+
+# Environment management
+python-dotenv==1.0.1
+
+# Utilities
+python-dateutil==2.8.2
+tqdm==4.66.1
+
+# Logging
+colorlog==6.8.2
